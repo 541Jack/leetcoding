@@ -1,4 +1,2 @@
 # leetcoding
-leeeeeeeeeeeeetcode journal?
-
-just a leetcode journal. I guess.
+leeeeeeeeeeeeetcode journal? More like
